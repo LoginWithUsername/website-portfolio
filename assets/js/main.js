@@ -240,7 +240,7 @@ fr: {
    homeText: 'BACK - ENGLISH - ',
    subtitle: "Salut! Je m'appelle Clark",
    description: "Je crée actuellement des sites web et des jeux. <br>Tout en étudiant l'informatique à l'Université Paris Saclay.",
-   aboutTitle: 'Étudiant bilingue franco-anglais en <span> deuxième année de licence </span>, travaillant indépendamment dans le développement web et le montage vidéo <span> et disponible pour travailler! </span><br>',
+   aboutTitle: 'Étudiant bilingue franco-anglais en <span> deuxième année de licence</span>, travaillant indépendamment dans le développement web et le montage vidéo <span> et prêt à travailler! </span><br>',
    aboutDescription: '',
    contactBtn: 'Contactez-moi',
    servicesTitle: '<span>Mes</span> Compétences',
