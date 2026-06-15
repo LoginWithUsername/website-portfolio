@@ -210,7 +210,7 @@ en: {
    homeText: 'CHANGE - FRENCH - ',
    subtitle: "Hi! I'm Clark",
    description: 'I currently create websites and games. <br>While studying computer science at Paris Saclay University.',
-   aboutTitle: 'Second year French & English speaking<span> bachelor student</span> , freelancing in <br> website design & video editing <span> and open to work! </span><br>',
+   aboutTitle: 'Second year French & English speaking<span> bachelor student</span>, freelancing in <br> website design & video editing <span> and open to work! </span><br>',
    aboutDescription: "Let's talk!",
    contactBtn: 'Contact me',
    servicesTitle: '<span>My</span> Skills',
