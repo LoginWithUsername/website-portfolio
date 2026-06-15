@@ -162,7 +162,7 @@ const sr = ScrollReveal({
    origin: 'bottom',
    distance: '60px',
    duration: 1200,
-   delay:300,
+   delay:150,
    easing: 'cubic-bezier(0.34, 1.56, 0.64, 1)', //values of where the transition is at so 1.56 means overdue and then we get back to 1
 })
 
